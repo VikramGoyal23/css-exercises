@@ -1,4 +1,4 @@
-p {
+.odd {
     background-color: #ff7676;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
@@ -14,6 +14,5 @@ p {
 
 #greenguy {
     background-color: #00ff00;
-    font-size: 24px;
     font-weight: bold;
 }
