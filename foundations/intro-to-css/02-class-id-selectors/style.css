@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+p {
+    background-color: #ff7676;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#blueguy {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.bigguy {
+    font-size: 24px;
+}
+
+#greenguy {
+    background-color: #00ff00;
+    font-size: 24px;
+    font-weight: bold;
+}
